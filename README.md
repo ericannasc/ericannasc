@@ -22,6 +22,11 @@ Sempre em busca de aprender e evoluir, dedico meu tempo a aprimorar minhas compe
 * Testes Manuais, Planejamento e Análise de Requisitos
 * Cultura de Qualidade e Garantia em todo o ciclo de desenvolvimento
 
+### ☁️ Cloud Computing & DevOps *(Em Aprimoramento)*
+* **AWS Services:** Amazon EC2, S3 (Buckets), AWS Lambda, Amazon SQS, Amazon SNS, DynamoDB
+* **Infraestrutura & Observabilidade:** AWS CloudFormation (IaC), Amazon CloudWatch
+* **Integração & Automação:** AWS SDK, Noções de CI/CD e Governança de Deploys
+
 ### 🚀 Desenvolvimento de Software & Processos
 * **Front-End:** HTML5, CSS3, JavaScript (ES6+), React
 * **Back-End:** Node.js, REST APIs, Python, Java (POO)
@@ -41,6 +46,7 @@ Sempre em busca de aprender e evoluir, dedico meu tempo a aprimorar minhas compe
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
 ---
